@@ -1,0 +1,14 @@
+{
+  "name": "matter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Peter Cole",
+  "license": "ISC",
+  "dependencies": {
+    "matter-js": "^0.14.2"
+  }
+}
